@@ -11,23 +11,11 @@
 
 ## My last projects:
 - 🃏 [Guess the Bug card game](https://deminavalentina22.github.io/game/), Here is the code: [GitHub](https://github.com/deminavalentina22/game)
-  - I used **JavaScript** ES6 syntax
+  - I used **JavaScript** ES6
 - 👜 [Adaptive LOCO website](https://deminavalentina22.github.io/project_LOCO/), Here is the code: [GitHub](https://github.com/deminavalentina22/project_LOCO)
   - **HTML** and **CSS** 
 - 🖇 [App ToDo](https://todovalya.vercel.app/), Here is the code: [GitHub](https://github.com/deminavalentina22/todovalya)
   - HTML/CSS and **React**
-### Languages and Tools I'm using:
-click to check 👇
-
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][siteLayout]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][siteLayout]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsProject]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactRedux]
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][profile]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][profile]
-
 
 <br />
 <br />
