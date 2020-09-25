@@ -17,7 +17,7 @@
 - 🖇 [App ToDo](https://todovalya.vercel.app/), Here is the code: [GitHub](https://github.com/deminavalentina22/todovalya)
   - HTML/CSS and **React**
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="deminavalentina22" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />][profile]
 [<img align="left" alt="itsvalyadm | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -34,6 +34,3 @@
 [instagram]: https://instagram.com/itsvalyadm
 [vk]: https://vk.com/vi_valenti
 [telegram]: https://t.me/valyadm
-[siteLayout]: https://codesandbox.io/s/blazing-dust-dw583
-[jsProject]: https://codesandbox.io/s/charming-colden-1hew9
-[react]: https://codesandbox.io/s/still-cloud-h5uk0
