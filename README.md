@@ -10,11 +10,11 @@
 - 💪 I have a great desire to work and develop in the front-end technologies
 
 ## My last projects:
-- 🃏 [Guess the Bug card game](https://codesandbox.io/s/charming-colden-1hew9), Here is the code: [GitHub](https://github.com/deminavalentina22/game)
+- 🃏 [Guess the Bug card game](https://deminavalentina22.github.io/game/), Here is the code: [GitHub](https://github.com/deminavalentina22/game)
   - I used **JavaScript** ES6 syntax
-- 👜 [Adaptive LOCO website](https://codesandbox.io/s/blazing-dust-dw583), Here is the code: [GitHub](https://github.com/deminavalentina22/project_LOCO)
+- 👜 [Adaptive LOCO website](https://deminavalentina22.github.io/project_LOCO/), Here is the code: [GitHub](https://github.com/deminavalentina22/project_LOCO)
   - **HTML** and **CSS** 
-- 🖇 [App ToDo](https://codesandbox.io/s/still-cloud-h5uk0), Here is the code: [GitHub](https://github.com/deminavalentina22/todovalya)
+- 🖇 [App ToDo](https://todovalya.vercel.app/), Here is the code: [GitHub](https://github.com/deminavalentina22/todovalya)
   - HTML/CSS and **React**
 ### Languages and Tools I'm using:
 click to check 👇
