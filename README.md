@@ -32,5 +32,5 @@
 
 [profile]: https://github.com/deminavalentina22
 [instagram]: https://instagram.com/itsvalyadm
-[vk]: https://vk.com/vi_valenti
-[telegram]: https://t.me/valyadm
+[vk]: https://vk.com/141136702
+[telegram]: https://t.me/im_valyademina
